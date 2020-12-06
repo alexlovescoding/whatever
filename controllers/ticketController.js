@@ -1,5 +1,4 @@
 // Define all of your ticket controller methods in this file that
-// will be used as callbacks to your endpoints
 const mongoose = require('mongoose');
 
 const ticketSchema = require('../models/ticket');
